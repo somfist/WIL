@@ -1,0 +1,14 @@
+1. JS의 ES란?
+	a. ECMA Script의 약자이며, JavaScript의 표준 규격을 의미
+	   a_1. ECMA란? European Computer Manufacturers Association(현 ECMA International)
+	b. 생기게된 계기 : JavaScript가 인기를 끄니 IE 3에서 JScript라는 이름으로 탑재했지만 둘의 내용이 달라 개발자들이 힘들어해서 규격을 정함
+	c. 뒤에 붙는 숫자는 버전을 의미
+
+2. ES5, ES6 문법 차이
+	a. ES5 : 2009년 버전
+	b. ES6 : 2015년 버전이며 많은 추가점 생김
+	   b_1. let, const 추가, 화살표 함수 추가 등
+
+3. 이번주의 스스로 문제점
+	a. 자바 배워봤어서 코딩을 너무 만만하게 생각한거 같다, 리액트 어렵다
+	b. 별도로 TIL 정리해둔거 자주자주 읽어봐야할 듯 하다
